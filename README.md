@@ -19,7 +19,7 @@
 - [Pnpm](https://github.com/pnpm/pnpm/) (>= 8.7.0，推荐最新版本)
 - [PostgreSQL](https://www.postgresql.org/) (推荐最新版本)
 
-## 🌴 项目运行
+##  项目运行
 1. 安装 [PostgreSQL](https://www.postgresql.org/) 数据库，并导入 `/postgreSQL` 中的文件，修改 `/server/env` 文件中的数据库配置，这一步要保证成功，不然后端服务起不来
 ```powershell
 DATABASE_URL="postgresql://postgres:123456@localhost:5432/vue3-admin?schema=public"
