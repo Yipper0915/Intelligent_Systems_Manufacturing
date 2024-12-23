@@ -76,6 +76,8 @@ declare module 'vue' {
     IconIcRoundRefresh: typeof import('~icons/ic/round-refresh')['default']
     IconIcRoundSearch: typeof import('~icons/ic/round-search')['default']
     IconLocalLogo: typeof import('~icons/local/logo')['default']
+    IconLocalMiui: typeof import('~icons/local/miui')['default']
+    IconLocalWind: typeof import('~icons/local/wind')['default']
     IconMdiDrag: typeof import('~icons/mdi/drag')['default']
     IconMdiRefresh: typeof import('~icons/mdi/refresh')['default']
     ImgCorpper: typeof import('./../components/custom/img-corpper.vue')['default']
